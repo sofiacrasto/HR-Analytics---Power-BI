@@ -59,6 +59,7 @@ This Power BI dashboard analyzes employee attrition and performance trends using
 ✨ Author & Credits
 
 Created by: Sofia
+
 GitHub Profile: Sofia Crasto
 
 Dataset Source: Kaggle - (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
