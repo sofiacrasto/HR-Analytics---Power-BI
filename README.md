@@ -35,8 +35,8 @@ This Power BI dashboard analyzes employee attrition and performance trends using
 
 ✅ GitHub → Version control & project hosting
 
-📷 Dashboard Preview
-![image](https://github.com/user-attachments/assets/4faab12b-9f86-4ca5-b958-09a57d8fe9b3)
+📷 Dashboard Preview 
+![image](https://github.com/user-attachments/assets/7609fe85-0d6a-4e57-84b6-6da41e1a849d)
 
 🚀 How to Use This Dashboard
 
